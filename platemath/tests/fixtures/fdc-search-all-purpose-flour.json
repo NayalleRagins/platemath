@@ -1,0 +1,219 @@
+{
+  "totalHits": 482,
+  "currentPage": 1,
+  "totalPages": 97,
+  "foods": [
+    {
+      "fdcId": 789890,
+      "description": "Flour, wheat, all-purpose, enriched, bleached",
+      "dataType": "Foundation",
+      "foodCategory": "Cereal Grains and Pasta",
+      "publishedDate": "2020-04-01",
+      "score": 847.28674,
+      "foodNutrients": [
+        {
+          "nutrientId": 1062,
+          "nutrientName": "Energy",
+          "nutrientNumber": "268",
+          "unitName": "kJ",
+          "value": 1530.0
+        },
+        {
+          "nutrientId": 1089,
+          "nutrientName": "Iron, Fe",
+          "nutrientNumber": "303",
+          "unitName": "MG",
+          "value": 5.62
+        },
+        {
+          "nutrientId": 1093,
+          "nutrientName": "Sodium, Na",
+          "nutrientNumber": "307",
+          "unitName": "MG",
+          "value": 2.0
+        },
+        {
+          "nutrientId": 1003,
+          "nutrientName": "Protein",
+          "nutrientNumber": "203",
+          "unitName": "G",
+          "value": 10.9
+        },
+        {
+          "nutrientId": 1004,
+          "nutrientName": "Total lipid (fat)",
+          "nutrientNumber": "204",
+          "unitName": "G",
+          "value": 1.48
+        },
+        {
+          "nutrientId": 1005,
+          "nutrientName": "Carbohydrate, by difference",
+          "nutrientNumber": "205",
+          "unitName": "G",
+          "value": 77.3
+        },
+        {
+          "nutrientId": 1008,
+          "nutrientName": "Energy",
+          "nutrientNumber": "208",
+          "unitName": "KCAL",
+          "value": 366
+        }
+      ]
+    },
+    {
+      "fdcId": 790018,
+      "description": "Flour, wheat, all-purpose, unenriched, unbleached",
+      "dataType": "Foundation",
+      "foodCategory": "Cereal Grains and Pasta",
+      "publishedDate": "2020-04-01",
+      "score": 847.28674,
+      "foodNutrients": [
+        {
+          "nutrientId": 1004,
+          "nutrientName": "Total lipid (fat)",
+          "nutrientNumber": "204",
+          "unitName": "G",
+          "value": 1.7
+        },
+        {
+          "nutrientId": 1005,
+          "nutrientName": "Carbohydrate, by difference",
+          "nutrientNumber": "205",
+          "unitName": "G",
+          "value": 74.6
+        },
+        {
+          "nutrientId": 1008,
+          "nutrientName": "Energy",
+          "nutrientNumber": "208",
+          "unitName": "KCAL",
+          "value": 362
+        },
+        {
+          "nutrientId": 1079,
+          "nutrientName": "Fiber, total dietary",
+          "nutrientNumber": "291",
+          "unitName": "G",
+          "value": 3.0
+        },
+        {
+          "nutrientId": 1089,
+          "nutrientName": "Iron, Fe",
+          "nutrientNumber": "303",
+          "unitName": "MG",
+          "value": 1.18
+        },
+        {
+          "nutrientId": 1093,
+          "nutrientName": "Sodium, Na",
+          "nutrientNumber": "307",
+          "unitName": "MG",
+          "value": 2.0
+        },
+        {
+          "nutrientId": 1003,
+          "nutrientName": "Protein",
+          "nutrientNumber": "203",
+          "unitName": "G",
+          "value": 12.0
+        },
+        {
+          "nutrientId": 1062,
+          "nutrientName": "Energy",
+          "nutrientNumber": "268",
+          "unitName": "kJ",
+          "value": 1510.0
+        }
+      ]
+    },
+    {
+      "fdcId": 168894,
+      "description": "Wheat flour, white, all-purpose, enriched, bleached",
+      "dataType": "SR Legacy",
+      "foodCategory": "Cereal Grains and Pasta",
+      "publishedDate": "2019-04-01",
+      "score": 792.9347,
+      "foodNutrients": [
+        {
+          "nutrientId": 1062,
+          "nutrientName": "Energy",
+          "nutrientNumber": "268",
+          "unitName": "kJ",
+          "value": 1520.0
+        },
+        {
+          "nutrientId": 1079,
+          "nutrientName": "Fiber, total dietary",
+          "nutrientNumber": "291",
+          "unitName": "G",
+          "value": 2.7
+        },
+        {
+          "nutrientId": 1089,
+          "nutrientName": "Iron, Fe",
+          "nutrientNumber": "303",
+          "unitName": "MG",
+          "value": 4.64
+        },
+        {
+          "nutrientId": 1093,
+          "nutrientName": "Sodium, Na",
+          "nutrientNumber": "307",
+          "unitName": "MG",
+          "value": 2.0
+        },
+        {
+          "nutrientId": 1003,
+          "nutrientName": "Protein",
+          "nutrientNumber": "203",
+          "unitName": "G",
+          "value": 10.3
+        },
+        {
+          "nutrientId": 1253,
+          "nutrientName": "Cholesterol",
+          "nutrientNumber": "601",
+          "unitName": "MG",
+          "value": 0.0
+        },
+        {
+          "nutrientId": 1258,
+          "nutrientName": "Fatty acids, total saturated",
+          "nutrientNumber": "606",
+          "unitName": "G",
+          "value": 0.155
+        },
+        {
+          "nutrientId": 1004,
+          "nutrientName": "Total lipid (fat)",
+          "nutrientNumber": "204",
+          "unitName": "G",
+          "value": 0.98
+        },
+        {
+          "nutrientId": 1005,
+          "nutrientName": "Carbohydrate, by difference",
+          "nutrientNumber": "205",
+          "unitName": "G",
+          "value": 76.3
+        },
+        {
+          "nutrientId": 1008,
+          "nutrientName": "Energy",
+          "nutrientNumber": "208",
+          "unitName": "KCAL",
+          "value": 364
+        },
+        {
+          "nutrientId": 2000,
+          "nutrientName": "Total Sugars",
+          "nutrientNumber": "269",
+          "unitName": "G",
+          "value": 0.27
+        }
+      ]
+    }
+  ]
+}
