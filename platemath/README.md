@@ -17,8 +17,7 @@ Early. The API works: it splits ingredient lines into amount, unit and ingredien
 Needs Python 3.11 or newer.
 
 ```bash
-git clone https://github.com/Khalick/platemath.git
-cd platemath
+
 cp .env.example .env            # add your FoodData Central key
 
 python -m venv .venv
